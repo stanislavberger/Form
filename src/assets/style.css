@@ -1,0 +1,28 @@
+html,
+body {
+  background-color: #282c34;
+  color: #fff;
+  max-height: 100%;
+  margin: 0;
+}
+
+.wrapper {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-self: center;
+}
+
+.left-sidebar {
+  border-right: 1px solid #fff;
+}
+
+.realtime-block {
+  align-self: flex-start;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-self: center;
+}
