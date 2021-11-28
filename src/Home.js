@@ -1,9 +1,10 @@
 import React from 'react'
-import logo from './logo.svg';
 import './App.css';
 import Title from './Components/Title';
+import { Button } from 'react-bootstrap';
 
 function Home() {
+
     return (
         <div>
             <Title title_page="About"/>
